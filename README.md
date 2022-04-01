@@ -382,7 +382,7 @@ void	ft_putchar(char c)
 		flex-direction:column;
 		align-items:center;
 		justify-content:center;">
-	<img style="max-width:200px;" 
+	<img style="width:200px;" 
 	src="readme/images/42_Logo.png"/>
 </div>
 <p style="padding:0 8px;">
