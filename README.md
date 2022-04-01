@@ -50,8 +50,8 @@
 		border-top:0.5px solid rgba(255,255,255,0.20);">Exercises</h1>
 
 <p style="padding:0 8px;">
-Short description about each exercise and main concepts behind each one.
-Some functions use ft_putchar function (printf function is forbidden for all exercises), which is implemented as below:</p>
+Below there is a short description about each exercise and the main concepts behind each one.
+Some functions use <i>ft_putchar</i> function, which is implemented as below:</p>
 
 ```c
 #include <unistd.h>
@@ -62,7 +62,7 @@ void	ft_putchar(char c)
 }
 
 ```
-## Also these exercises must be aligned with [The Norm](https://github.com/42School/norminette). So some functions are forbidden and coding styles are forced.
+## Also these exercises must be aligned with [The Norm](https://github.com/42School/norminette).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -391,7 +391,7 @@ void	ft_putchar(char c)
 <p style="padding:0 8px;">
 To join 42, you must pass in a selection process called "Piscine"or "Basecamp".
 </p>
-<p style="padding:0 8px;">42 São Paulo is part of 42 School network, for more information please access this linkk below:
+<p style="padding:0 8px;">42 São Paulo is part of 42 School network, for more information please access this link below:
 <h3  style="font-size:24px;padding:0 8px;"><a href="https://www.42sp.org.br/">
 42-São Paulo
 </a></h3></p>
