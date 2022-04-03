@@ -254,7 +254,7 @@ void	ft_putchar(char c)
 			<td style="text-align:center;">
 				<a href="ex17">ft_strcmp</a>
 			</td>
-			<td style="text-align:center;">Shell</td>
+			<td style="text-align:center;">C</td>
 			<td style="text-align:center;">Reproduce strcmp function behavior</td>
 			<td style="text-align:center;"><i>while</i></td>
 			<td style="display:flex;align-items:center;" align="center"><span style="margin-right:8px;">Success (100%)</span><img class="emoji" alt="heavy_check_mark" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"></td>
